@@ -133,7 +133,7 @@ Call Me Maybe/
 | -------------------- | ------------------------------------ |
 | Language model       | Qwen/Qwen3-0.6B via HuggingFace      |
 | Constrained decoding | Custom `llm_sdk` (workspace package) |
-| Output validation    | `pydantic >= 2.12`                   |
+| Output validation    | `pydantic >= 2.13`                   |
 | Numerical ops        | `numpy >= 2.2`                       |
 | Package manager      | `uv` (workspace mode)                |
 | Linting / typing     | `flake8`, `mypy`                     |
