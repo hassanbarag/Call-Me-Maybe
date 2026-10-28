@@ -1,3 +1,7 @@
+<p>
+  <img src="assest/architecture.png"width="100%">
+</p>
+
 # 📞 Call Me Maybe
 
 ## Description
